@@ -1,2 +1,2 @@
 hello,git!
-welcome to learn git;
+hello,world!
