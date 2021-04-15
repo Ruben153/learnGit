@@ -1,3 +1,3 @@
 hello,git!
 hello,world!
-this is a text of Adlin!
+this is a text for git!
